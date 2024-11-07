@@ -1,7 +1,8 @@
 # 🚀 AWS Optimization Series
 
-[![AWS Optimization series](https://img.shields.io/badge/AWS-Optimizations-orange?style=flat-square&logo=amazon-aws)](https://blog.nasirb.dev/)
-[![Medium Profile](https://img.shields.io/badge/Medium-Nasir-black?style=flat-square&logo=medium)](https://blog.nasirb.dev/about)
+[![AWS Optimization series articles](https://img.shields.io/badge/AWS-Optimization%20Series%20articles-orange?style=flat-square-round&logo=amazon-aws)](https://blog.nasirb.dev/)
+
+[![Medium Profile](https://img.shields.io/badge/Medium-Nasir-purple?style=flat-square-round&logo=medium)](https://blog.nasirb.dev/about)
 
 ---
 
@@ -13,9 +14,9 @@ Welcome to the **AWS Optimization Series** repository! This series is dedicated 
 
 ## 📚 Table of Contents
 
-Below are the links to the command files corresponding to each Medium article in the series:
+Below are the links to the command files corresponding to each **medium** article in the series:
 
-[![1.](https://img.shields.io/badge/1.-blue?style=for-the-badge-round&logoColor=white)](https://github.com/nasir-bashir-dev/aws-optimization-series) [![EC2 - Optimizing the over-provisioned or underutilized EBS storage for EC2 Instances](https://img.shields.io/badge/EC2%20-%20Optimizing%20the%20over--provisioned%20or%20underutilized%20EBS%20storage%20for%20EC2%20Instances-blue?style=for-the-badge-round&logo=amazon-ec2&logoColor=white)](https://github.com/nasir-bashir-dev/aws-optimization-series)
+![1.](https://img.shields.io/badge/1.-blue?style=for-the-badge-round&logoColor=white) [![EC2 - Linux commands for optimizing the over-provisioned or underutilized EBS storage for EC2 Instances](https://img.shields.io/badge/EC2%20-%20Linux%20commands%20for%20optimizing%20the%20over--provisioned%20or%20underutilized%20EBS%20storage%20for%20EC2%20Instances-blue?style=for-the-badge-round&logo=amazon-ec2&logoColor=white)](https://github.com/nasir-bashir-dev/aws-optimization-series/scripts/ec2-ebs-commands.sh) [![Article](https://img.shields.io/badge/Medium-Article-purple?style=flat-square-round&logo=medium)](https://blog.nasirb.dev/about)
 
 
 ---
@@ -34,7 +35,7 @@ To make the most out of this repository:
 
 For any inquiries, feedback or problems, feel free to open an issue or reach out via medium:
 
-[![Medium](https://img.shields.io/badge/Medium-Nasir-black?style=flat-square&logo=medium)](https://blog.nasirb.dev/about)
+[![Medium](https://img.shields.io/badge/Medium-Nasir-purple?style=flat-square-round&logo=medium)](https://blog.nasirb.dev/about)
 
 ---
 
