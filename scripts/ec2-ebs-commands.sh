@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 sudo file -s /dev/xvdf
 
