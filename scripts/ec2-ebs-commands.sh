@@ -1,3 +1,5 @@
+#!/bin/bash
+
 sudo file -s /dev/xvdf
 
 
