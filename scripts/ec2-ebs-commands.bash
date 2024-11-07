@@ -2,7 +2,9 @@ sudo file -s /dev/xvdf
 
 
 sudo mkfs -t ext4 /dev/xvdf
+
 or 
+
 sudo mke4fs -t ext4 /dev/xvdf
 
 sudo mkdir /mnt/new-vol
@@ -35,7 +37,6 @@ sudo e2label /dev/xvda1
 
 The output would look something like
 "cloudimg-rootfs"
-
 
 
 sudo e2label /dev/xvdf cloudimg-rootfs
