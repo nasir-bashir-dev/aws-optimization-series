@@ -1,5 +1,5 @@
 
-# 📘 AWS❎EC2❎EBS Storage Optimization Commands
+# 📘 AWS/EC2/EBS Storage Optimization Commands
 
 This guide provides step-by-step instructions to prepare a new volume, migrate data, and ensure the new volume is bootable. Incase, a beginner, please proceed with caution and ensure you have backups before performing these operations.
 
